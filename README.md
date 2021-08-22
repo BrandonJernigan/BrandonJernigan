@@ -1,5 +1,4 @@
 <h2>Hi, I'm Brandon.</h2>
-<br />
 <h4>About Me</h4>
 <p>I am a software engineering student working towards my Bachelor's Degree in Computer Science with a Concentration in Software Engineering. I am passionate about software development in all forms. I love learning new languages and tools to aide me in my journey of learning this crazy awsome art. It is my dream to become a full stack software developer, and no matter what, I plan to accomplish this goal. So join me on my software adventure and find out more below.</p>
 <br />
