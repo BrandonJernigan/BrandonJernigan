@@ -11,5 +11,6 @@
 <p><span><strong>GitHub Pages Project: </strong></span>https://brandonjernigan.github.io/BrandonsProjects/</p>
 
 <p><span><strong>LinkedIn: </strong></span>https://www.linkedin.com/in/brandonkjernigan</p>
+<br />
 <p><span><strong>Facebook: </strong></span>https://www.facebook.com/brandon.jernigan.5817</p>
 <p><span><strong>Twitter: </strong></span>https://twitter.com/_BJernigan_</p>
