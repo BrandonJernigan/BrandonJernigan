@@ -9,7 +9,6 @@
 <h4>GitHub Layout</h4>
 <p>The projects on my GitHub are open source projects of all diciplines. Though I plan to be a full stack engineer, I like to expirement with other types of projects using a variety of languages. These projects are scratch projects where the code is not always pretty, the functionality is not always complete, but they have taught me a valuable skill, allowed me to explore a programming language, or were just fun projects that I enjoyed creating for no other reason. Below is a link to a simple webpage project hosted on GitHub pages that I use to display my GitHub projects in more of a visual format... Really, I just wanted to have a project use GitHub pages and needed a project to allow me to do this. With all of that in mind, I hope you find what you are looking for on here, and feel free to connect with me through LinkedIn, Facebook, or Twitter.</p>
 <p><span><strong>GitHub Pages Project: </strong></span>https://brandonjernigan.github.io/BrandonsProjects/</p>
-<br />
 <p><span><strong>LinkedIn: </strong></span>https://www.linkedin.com/in/brandonkjernigan</p>
 <p><span><strong>Facebook: </strong></span>https://www.facebook.com/brandon.jernigan.5817</p>
 <p><span><strong>Twitter: </strong></span>https://twitter.com/_BJernigan_</p>
