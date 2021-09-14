@@ -3,7 +3,7 @@
 <p>I am a software engineering student working towards my Bachelor's Degree in Computer Science with a Concentration in Software Engineering. I am passionate about software development in all forms. I love learning new languages and tools to aide me in my journey of learning this crazy awsome art. It is my dream to become a full stack software developer, and no matter what, I plan to accomplish this goal. So join me on my software adventure and find out more below.</p>
 <br />
 <h4>Website</h4>
-<p>Below is a link to my portfolio website. It is a full stack project that I use to showcase all of my full stack projects. Because these are full stack projects in which I configured and manage the servers, the codebase for these projects is private.
+<p>Below is a link to my portfolio website. It is a full stack project that I use to share my web applications. Not all of the projects on this page will have public repositories, but most do.
 <p>https://brandonjernigan.io</p>
 <br />
 <h4>GitHub Layout</h4>
