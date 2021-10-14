@@ -4,15 +4,17 @@ I am passionate about software development in all forms. I love learning new lan
 
 
 ### Website
-Checkout my website https://brandonjernigan.io
+[website-shield]: https://user-images.githubusercontent.com/81219815/137229914-2159fced-326f-4979-b26c-13df6f19bad6.png
+[website-url]: https://brandonjernigan.io
+[![Website][website-shield]][website-url]
+
 
 ### Connect With Me
-
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/brandonkjernigan
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
 [twitter-url]: https://twitter.com/_BJernigan_
-[dev-shield]: https://img.shields.io/badge/dev.to-0A0A0A?dev.to=twitter&logoColor=white&style=for-the-badge
+[dev-shield]: https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge
 [dev-url]: https://dev.to/brandonjernigan
 [facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge
 [facebook-url]: https://www.facebook.com/brandon.jernigan.5817
