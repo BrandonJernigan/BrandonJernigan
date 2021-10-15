@@ -1,6 +1,6 @@
 # Hi, I'm Brandon
 ### About Me
-I am passionate about software development in all forms. I love learning new languages and tools to aide me in my journey of learning this crazy, awesome art. It is my dream to become a full stack software developer, and no matter what, I plan to accomplish this goal. So, join me on my software adventure and find out more below.
+I am passionate about software development in all forms. I love learning new languages and tools to aide me in my journey of learning this crazy, awesome art. Checkout some of my projects, and if you want, connect with me.
 
 
 ### Website
