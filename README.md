@@ -12,11 +12,4 @@ I am passionate about software development in all forms. I love learning new lan
 ### Connect With Me
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge
 [linkedin-url]: https://www.linkedin.com/in/brandonkjernigan
-[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge
-[twitter-url]: https://twitter.com/_BJernigan_
-[facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge
-[facebook-url]: https://www.facebook.com/brandon.jernigan.5817
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Facebook][facebook-shield]][facebook-url]
